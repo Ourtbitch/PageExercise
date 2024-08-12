@@ -53,7 +53,7 @@ h1 {
     text-align: left;
 }
 .jobs-data-row td{
-    border-right: 1px solid gray;
+    border: 1px solid gray;
     padding: 8px;
 }
 #jobs-table tr:nth-child(odd){
